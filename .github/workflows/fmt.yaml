@@ -1,0 +1,28 @@
+name: autofix.ci
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions: {}
+jobs:
+  prettier-format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: |
+          bun x prettier . --write
+      - uses: autofix-ci/action@v1
+        with:
+          commit-message: "Apply Prettier format"
+  djot-reformat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: |
+          bun install -g @djot/djot
+          find . -name "*.dj" -type f -print0 | xargs -0 -I {} bash -c 'djot -f djot -t djot "{}" > "{}.tmp" && mv "{}.tmp" "{}"'
+      - uses: autofix-ci/action@v1
+        with:
+          commit-message: "Apply Djot reformat"
