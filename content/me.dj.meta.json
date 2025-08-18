@@ -1,0 +1,7 @@
+{
+	"title": "About me",
+	"description": "",
+	"layout": "",
+	"permalink": "/me",
+	"data": { "type": "page_data", "in_menus": [] }
+}
