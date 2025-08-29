@@ -8,9 +8,9 @@ theme_dark = "strawmelonjuice-dark"
 # This is a hex colour, e.g. #FFFFFF
 colour = "#FFFFFF"
 # Your website's name, displayed in various places
-site_name = "Mar&#39;s site"
+site_name = "Mar's site"
 # A brief description of your website
-site_description = "Just MLC Bloeiman&#39;s site, a small blog, a few links and a portfolio."
+site_description = "Just MLC Bloeiman's site, a small blog, a few links and a portfolio."
 
 [server]
 # Port number for the web server
