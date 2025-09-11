@@ -172,9 +172,9 @@ strawmelonjuice_badges = """
     "text_badge": ""
   },
   {
-    "src": "",
-    "alt": "",
-    "title": "",
+    "src": "/assets/img/badges/0235-rainbowstar.gif",
+    "alt": "Silly rainbow star",
+    "title": "SILLY!",
     "href": "",
     "text_badge": ""
   },
