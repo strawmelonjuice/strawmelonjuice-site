@@ -1,0 +1,44 @@
+# Stepping away from GitHub
+
+Over the past years, my relationship with GitHub and my code was a wellunderstanding one.
+When I first started writing open source, back then using entirely different aliases (so no, you won't find my old old code), GitLab was the friendly one.
+
+GitLab offered free stuff that GitHub did not yet.
+
+Over time this changed, and so did my preference.
+
+Now, my hand feels forced into tech I am not looking to expand. My preference has to change once again.
+
+## Microsoft takeover
+
+A few years ago GitHub was acquired by Microsoft, many people feared of what was coming, but I told them: "GitHub remains in control, nothing will change."
+
+How naive.
+
+As the GitHub CEO stepped down recently, Microsoft took it's chance...
+..and now who manages GitHub?
+
+Not _just Microsoft_. Microsoft's *AI TEAM*. GitHub is apparently no longer a VCS remote. It's an AI thing entirely.
+
+## LLM's
+
+I'm not against any form of large language models, and the usage of AI outside of generative is actually something I enjoy seeing grow.
+
+But keep those LLM's in their lane. Which is text generation and prediction, code is text. Fine. However _my code_ is not it's lane. My code, is mine.
+
+Yes, yes. It's open source yadda yadda yadda. If you drag out that argument I'm closing it.
+
+I'm okay with LLM's, I'm not okay with GitHub being an LLM thing. Because my code is not just an LLM thing.
+
+> _*Also, generative AI is boring!*_
+
+
+
+## Where do I go?
+
+I won't disappear off GitHub, I've already got a small presence on Codeberg and currently mirror that to GitHub, those mirror's will stop.
+
+I will spread my eggs into multiple baskets, I've created an [tangled.sh account](https://tangled.sh/@strawmelonjuice.com) and will soon host my own 
+Forgejo instance, with runners.
+
+*I'll create README's redirecting you to the new locations! :3*
