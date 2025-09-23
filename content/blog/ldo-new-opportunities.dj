@@ -1,0 +1,21 @@
+# New opportunities for the from-mar-blogpost engine
+
+_This post was migrated from an older version of strawmelonjuice.com. It might have some quirks._
+
+
+![Mar](https://avatars.githubusercontent.com/u/101558380?s=400&u=aa8f776b3e11f02130575d1b46851cca05a0c981&v=4){height=18} **Mar**
+---
+
+_New opportunities for the from-mar-blogpost engine._
+
+The digital diary app <logger-diary.from-mar.com> has served it's own news page ever since its release, but that very news page was extremely unintuitive and to be fair, it was kind of hard work to post to it.
+
+In the last few weeks, the new <https://strawmelonjuice.com/> sprouted very quickly, it's simple YAML file as index, in the combination of Markdown to format the content in a quick and easy way, is on the other hand very very attractive to post to. The decision was quickly made, LDo-news is coming to my site!
+
+This isn't a very big issue, nor an unusual approach, as Logger-Diary is my project, and the `strawmelonjuice.com` domain is home to most of my projects. In fact, [Logger-Diary Online used to be hosted on `logger-diary.from-mar.com`](/ldo-moved-to-logger-diary-online), before I decided it had to grow out of my subdomain list. (I might even move it back someday)
+
+Future site updates might bring an 'LDNews' mode, but for the foreseeable future, the 'base' mode suffices. 
+
+The LDo News page did not support multiple languages, and --while the engine supports it-- there are no plans for the from-mar site to support multilang LDo news.
+
+Until next news post! ;)

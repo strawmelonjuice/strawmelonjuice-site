@@ -1,0 +1,24 @@
+{
+    "title": "[migrated] WordPress is a thing of the past",
+    "description": "This site no longer runs on WordPress, this is how and why I did it.",
+    "layout": "theme",
+    "permalink": "/wordpress-2023-05-30",
+    "data": {
+        "type": "post_data",
+        "date_published": "2023-05-30",
+        "date_updated": "2023-05-30",
+        "category": "Technology",
+        "tags": [
+            "WordPress",
+            "Static Site",
+            "Migration",
+            "Web Development",
+            "Content Management",
+            "Markdown",
+            "Personal Experience",
+            "Technology Opinion",
+            "Ephew",
+            "Self-hosted"
+        ]
+    }
+}
