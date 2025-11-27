@@ -1,0 +1,15 @@
+{
+    "cSpell.checkOnlyEnabledFileTypes": true,
+    "cSpell.enabledFileTypes": {
+        "*": false,
+        "md": true,
+        "markdown": true,
+        "djot":true,
+        "dj":true,
+        "html": true,
+        "txt": true,
+    },
+    "cSpell.words": [
+        "strawbersite"
+    ]
+}
