@@ -1,16 +1,25 @@
   <style>
+    /*
+    Hide the title bar which has no id but I'd like it gone 
+    and so I'm taking this rather specific path
+    hoping it's specific enough!
+    */
+      .block > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1), div.h-full:nth-child(2) > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1) {
+      display: none;
+    }
+
     #da-content {
       font-family: 'Segoe UI', sans-serif;
       text-align: center;
       padding: 2em;
     }
 
-     #da-content .linklist-container {
+     #da-content .link-list-container {
       max-width: 500px;
       margin: auto;
     }
 
-    #da-content .linklist-button {
+    #da-content .link-list-button {
       display: block;
       background: #ff6f91;
       color: white;
@@ -22,7 +31,7 @@
       transition: background 0.3s ease;
     }
 
-    #da-content .linklist-button:hover {
+    #da-content .link-list-button:hover {
       background: #ff4f78;
     }
 
@@ -69,18 +78,19 @@
       background: #ff4f78;
     }
   </style>
-  <div class="linklist-container">
-    <a class="linklist-button" href="/#/support">💝 Support Me</a>
-    <a class="linklist-button" href="/#!">📖 My blog posts</a>
-    <a class="linklist-button" href="https://instagram.com/strawmelonjuice">📷 Instagram</a>
+  <div class="link-list-container">
+    <a class="link-list-button" href="/#/support">💝 Support Me</a>
+    <a class="link-list-button" href="/#!">📖 My blog posts</a>
+    <a class="link-list-button" href="https://instagram.com/strawmelonjuice">📷 Instagram</a>
     <div class="submenu bg-primary">
       <p class="submenu-h3">Explore More</p>
       <p>Want to dive deeper into my work or learn more about me? Choose your path below:</p>
-    <a class="linklist-button" href="/#/portfolio">😃 My portfolio</a>
+    <a class="link-list-button" href="/#/portfolio">😃 My portfolio</a>
     <p>Or go directly to:</p>
       <div class="button-row">
-        <a href="https://github.com/strawmelonjuice">GitHub</a>
         <a href="https://codeberg.org/strawmelonjuice">Codeberg</a>
+        <a href="https://git.strawmelonjuice.com/strawmelonjuice">My forge</a>
+        <a href="https://github.com/strawmelonjuice">GitHub</a>
       </div>
     </div>
 
