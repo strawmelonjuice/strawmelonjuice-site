@@ -3,5 +3,5 @@
 	"description": "Like what I do? Want to support me? You'll find some links on this page!",
 	"layout": "",
 	"permalink": "/support",
-	"data": { "type": "page_data", "in_menus": [] }
+	"data": { "type": "page_data", "in_menus": [], "hide_meta": true }
 }

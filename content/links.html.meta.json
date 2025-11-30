@@ -3,5 +3,11 @@
 	"description": "I'm all over the web! 🍓🍉🥤",
 	"layout": "",
 	"permalink": "/links",
-	"data": { "type": "page_data", "in_menus": [1] }
+	"data": {
+		"type": "page_data",
+		"in_menus": [
+			1
+		],
+		"hide_meta": true
+	}
 }
