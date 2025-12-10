@@ -1,0 +1,104 @@
+  <style>
+    #da-content {
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 2em;
+    }
+
+     #da-content .link-list-container {
+      max-width: 500px;
+      margin: auto;
+    }
+
+    #da-content .link-list-button {
+      display: block;
+      background: rgb(240, 210, 216);
+      color: saddlebrown;
+      text-decoration: none;
+      padding: 1em;
+      margin: 1em 0;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    #da-content .link-list-button.highlighted {
+      display: block;
+      background: peachpuff;
+	  color: brown;
+      text-decoration: none;
+      padding: 1em;
+      margin: 1em 0;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+
+    #da-content .link-list-button:hover {
+      background: #ff4f78;
+    }
+    #da-content .link-list-button.highlighted:hover {
+      background: #ffdab9;
+    }
+
+    #da-content .note {
+      font-size: 0.9em;
+      margin-top: 1em;
+    }
+
+    #da-content .submenu {
+      border-radius: 10px;
+      padding: 1em;
+      margin-top: 2em;
+    }
+
+    #da-content .submenu .submenu-h3 {
+      margin-top: 0;
+      font-size: 1.2em;
+    }
+
+    #da-content .submenu p {
+      font-size: 0.95em;
+      margin-bottom: 1em;
+    }
+
+    #da-content .button-row {
+      display: flex;
+      justify-content: center;
+      gap: 1em;
+      flex-wrap: wrap;
+    }
+
+    #da-content .button-row a {
+      flex: 1 1 40%;
+      background: rgb(240, 210, 216);
+      color: saddlebrown;
+      text-decoration: none;
+      padding: 0.8em;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+
+    #da-content .button-row a:hover {
+      background: #ff4f78;
+    }
+  </style>
+  <div class="link-list-container">
+    <p>You'll likely be interested in my</p>
+    <a class="link-list-button highlighted" href="/#!/tag/blog/Personal">Personal blog</a>
+    <p>Or, perhaps...</p>
+    <a class="link-list-button" href="/#!/tag/blog/Creative">Creative works</a>
+    <div class="button-row">
+	    <p>Maybe any specifific type of creative work you want to see?</p>
+	    <a href="/#!/category/Art">Drawings</a>
+	    <a href="/#!/category/Stories">Stories</a>
+    </div>
+    <div class="submenu bg-secondary">
+      <p class="submenu-h3">Disable filter</p>
+      <p>Want to view ALL posts, including old, de-archived ones that might no longer be relevant. Then this is what you need:</p>
+      <a class="link-list-button" href="/#!/">All posts at once!</a>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+	"title": "Denouncing GitHub",
+	"description": "So sad this is the first post written on this engine.",
+	"layout": "theme",
+	"permalink": "/denouncing-github",
+	"data": {
+		"type": "post_data",
+		"date_published": "2025-11-09",
+		"date_updated": "2025-11-09",
+		"category": "Personal",
+		"tags": [
+			"github",
+			"git",
+			"GitHub",
+			"Microsoft",
+			"Open Source",
+			"Code Hosting",
+			"AI",
+			"Large Language Models",
+			"Ethics",
+			"Platform Migration",
+			"Forgejo",
+			"Codeberg",
+			"Software Development",
+			"Technology Opinion",
+			"Personal Experience",
+			"blog/Personal"
+		]
+	}
+}

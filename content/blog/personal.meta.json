@@ -1,7 +1,7 @@
 {
 	"title": "Personal blog",
-	"description": "My blog posts",
+	"description": "",
 	"layout": "default",
-	"permalink": "!/category/Personal",
+	"permalink": "!/tag/blog/Personal",
 	"data": { "type": "page_data", "in_menus": [] }
 }
