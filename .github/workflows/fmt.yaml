@@ -3,7 +3,8 @@ on:
   pull_request:
   push:
     branches: [main]
-permissions: {}
+permissions:
+  contents: write
 jobs:
   prettier-format:
     runs-on: ubuntu-latest
