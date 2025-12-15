@@ -13,6 +13,7 @@ jobs:
       - uses: oven-sh/setup-bun@v2
       - run: |
           bun x prettier . --write
+          git restore .github
       - uses: autofix-ci/action@v1
         with:
           commit-message: "Apply Prettier format"
@@ -24,6 +25,7 @@ jobs:
       - run: |
           bun install -g @djot/djot
           find . -name "*.dj" -type f -print0 | xargs -0 -I {} bash -c 'echo "File: {}"; djot -f djot -t djot "{}" > "{}.tmp" && mv "{}.tmp" "{}" || true;'
+          git restore .github
       - uses: autofix-ci/action@v1
         with:
           commit-message: "Apply Djot reformat"
