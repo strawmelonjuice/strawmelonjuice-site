@@ -1,27 +1,27 @@
 {
-	"title": "Leafornia Chapter 1: The Devil Steps Down",
-	"description": "The first chapter of Leafornia's story - the devil herself comes to earth to fix a wrongdoing.",
-	"layout": "theme",
-	"permalink": "/leafornia-1",
-	"data": {
-		"type": "post_data",
-		"date_published": "2023-01-20",
-		"date_updated": "2023-01-20",
-		"category": "Stories",
-		"tags": [
-			"Leafornia",
-			"Fiction",
-			"Creative Writing",
-			"Fantasy",
-			"Devil",
-			"Hell",
-			"Earth",
-			"Original Story",
-			"Chapter 1",
-			"Serial",
-			"Lucifer",
-			"Portal",
-			"blog/Creative"
-		]
-	}
+  "title": "Leafornia Chapter 1: The Devil Steps Down",
+  "description": "The first chapter of Leafornia's story - the devil herself comes to earth to fix a wrongdoing.",
+  "layout": "theme",
+  "permalink": "/leafornia-1",
+  "data": {
+    "type": "post_data",
+    "date_published": "2023-01-20",
+    "date_updated": "2023-01-20",
+    "category": "Stories",
+    "tags": [
+      "Leafornia",
+      "Fiction",
+      "Creative Writing",
+      "Fantasy",
+      "Devil",
+      "Hell",
+      "Earth",
+      "Original Story",
+      "Chapter 1",
+      "Serial",
+      "Lucifer",
+      "Portal",
+      "blog/Creative"
+    ]
+  }
 }

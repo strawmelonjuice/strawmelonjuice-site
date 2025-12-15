@@ -1,27 +1,27 @@
 {
-	"title": "MouseMouse 3.2 Textured",
-	"description": "The mousemouse with a new papertextured mix - a follow-up to the previous MouseMouse 3.2 post!",
-	"layout": "theme",
-	"permalink": "/mousemouse-3-2-textured",
-	"data": {
-		"type": "post_data",
-		"date_published": "2023-06-20",
-		"date_updated": "2023-06-20",
-		"category": "Art",
-		"tags": [
-			"MouseMouse",
-			"Art",
-			"Digital Art",
-			"Character Design",
-			"Original Character",
-			"OC",
-			"Artwork",
-			"Texture",
-			"Paper Texture",
-			"Creative",
-			"Personal Project",
-			"OCid:MM",
-			"blog/Creative"
-		]
-	}
+  "title": "MouseMouse 3.2 Textured",
+  "description": "The mousemouse with a new papertextured mix - a follow-up to the previous MouseMouse 3.2 post!",
+  "layout": "theme",
+  "permalink": "/mousemouse-3-2-textured",
+  "data": {
+    "type": "post_data",
+    "date_published": "2023-06-20",
+    "date_updated": "2023-06-20",
+    "category": "Art",
+    "tags": [
+      "MouseMouse",
+      "Art",
+      "Digital Art",
+      "Character Design",
+      "Original Character",
+      "OC",
+      "Artwork",
+      "Texture",
+      "Paper Texture",
+      "Creative",
+      "Personal Project",
+      "OCid:MM",
+      "blog/Creative"
+    ]
+  }
 }

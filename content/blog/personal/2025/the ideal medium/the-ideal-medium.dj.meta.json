@@ -1,31 +1,30 @@
 {
-	"title": "The ideal medium",
-	"description": "A 22-year-old tech wizz yells at a cloud (the digital one) to tell you to buy a walkman",
-	"layout": "theme",
-	"permalink": "/the-ideal-medium",
-	"data": {
-		"type": "post_data",
-		"date_published": "2025-12-14",
-		"date_updated": "2025-12-14",
-		"category": "Personal",
-		"tags": [
-			"Physical Media",
-			"Analog",
-			"Vinyl",
-			"CDs",
-			"Cassettes",
-			"Floppy Disks",
-			"Libraries",
-			"Accessibility",
-			"Ebooks",
-			"Nostalgia",
-			"2000s Kid",
-			"Technology Ethics",
-			"Personal Rant",
-			"Digital vs Physical",
-			"Audiophile",
-			"blog/Personal"
-		]
-	}
+  "title": "The ideal medium",
+  "description": "A 22-year-old tech wizz yells at a cloud (the digital one) to tell you to buy a walkman",
+  "layout": "theme",
+  "permalink": "/the-ideal-medium",
+  "data": {
+    "type": "post_data",
+    "date_published": "2025-12-14",
+    "date_updated": "2025-12-14",
+    "category": "Personal",
+    "tags": [
+      "Physical Media",
+      "Analog",
+      "Vinyl",
+      "CDs",
+      "Cassettes",
+      "Floppy Disks",
+      "Libraries",
+      "Accessibility",
+      "Ebooks",
+      "Nostalgia",
+      "2000s Kid",
+      "Technology Ethics",
+      "Personal Rant",
+      "Digital vs Physical",
+      "Audiophile",
+      "blog/Personal"
+    ]
+  }
 }
-

@@ -1,23 +1,23 @@
 {
-    "title": "[migrated] LDo moves to new address",
-    "description": "Logger-Diary has moved from logger-diary.from-mar.com to its own address: logger-diary.online",
-    "layout": "theme",
-    "permalink": "/ldo-moved-to-logger-diary-online",
-    "data": {
-        "type": "post_data",
-        "date_published": "2023-02-15",
-        "date_updated": "2023-02-15",
-        "category": "Logger-Diary",
-        "tags": [
-            "Logger-Diary",
-            "LDo",
-            "Domain Migration",
-            "Address Change",
-            "logger-diary.online",
-            "from-mar.com",
-            "Hosting",
-            "Announcement",
-            "Project Update"
-        ]
-    }
+  "title": "[migrated] LDo moves to new address",
+  "description": "Logger-Diary has moved from logger-diary.from-mar.com to its own address: logger-diary.online",
+  "layout": "theme",
+  "permalink": "/ldo-moved-to-logger-diary-online",
+  "data": {
+    "type": "post_data",
+    "date_published": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "category": "Logger-Diary",
+    "tags": [
+      "Logger-Diary",
+      "LDo",
+      "Domain Migration",
+      "Address Change",
+      "logger-diary.online",
+      "from-mar.com",
+      "Hosting",
+      "Announcement",
+      "Project Update"
+    ]
+  }
 }

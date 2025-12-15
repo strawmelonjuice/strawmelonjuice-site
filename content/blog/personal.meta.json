@@ -1,7 +1,7 @@
 {
-	"title": "Personal blog",
-	"description": "My personal blog and opinions!",
-	"layout": "default",
-	"permalink": "!/tag/blog/Personal",
-	"data": { "type": "page_data", "in_menus": [] }
+  "title": "Personal blog",
+  "description": "My personal blog and opinions!",
+  "layout": "default",
+  "permalink": "!/tag/blog/Personal",
+  "data": { "type": "page_data", "in_menus": [] }
 }

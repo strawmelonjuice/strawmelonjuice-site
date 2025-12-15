@@ -1,24 +1,24 @@
 {
-    "title": "[migrated] Ads no more",
-    "description": "Completely removing ads from this site after quarrels with Google Ads and other ad networks.",
-    "layout": "theme",
-    "permalink": "/ads-no-more",
-    "data": {
-        "type": "post_data",
-        "date_published": "2023-07-15",
-        "date_updated": "2023-07-15",
-        "category": "Personal",
-        "tags": [
-            "Ads",
-            "Google Ads",
-            "Monetization",
-            "Website Policy",
-            "AdFoc.us",
-            "Donations",
-            "Site Management",
-            "Personal Decision",
-            "Logger-Diary",
-            "Support"
-        ]
-    }
+  "title": "[migrated] Ads no more",
+  "description": "Completely removing ads from this site after quarrels with Google Ads and other ad networks.",
+  "layout": "theme",
+  "permalink": "/ads-no-more",
+  "data": {
+    "type": "post_data",
+    "date_published": "2023-07-15",
+    "date_updated": "2023-07-15",
+    "category": "Personal",
+    "tags": [
+      "Ads",
+      "Google Ads",
+      "Monetization",
+      "Website Policy",
+      "AdFoc.us",
+      "Donations",
+      "Site Management",
+      "Personal Decision",
+      "Logger-Diary",
+      "Support"
+    ]
+  }
 }

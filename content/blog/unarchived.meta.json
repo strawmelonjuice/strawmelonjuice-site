@@ -1,11 +1,11 @@
 {
-	"title": "Blog: Unfiltered",
-	"description": "",
-	"layout": "default",
-	"permalink": "!/",
-	"data": {
-		"type": "page_data",
-		"in_menus": [],
-		"hide_meta": true
-	}
+  "title": "Blog: Unfiltered",
+  "description": "",
+  "layout": "default",
+  "permalink": "!/",
+  "data": {
+    "type": "page_data",
+    "in_menus": [],
+    "hide_meta": true
+  }
 }

@@ -1,7 +1,7 @@
 {
-	"title": "Personal start page",
-	"description": "A start page for my personal use. I don't expect anyone else to use it.",
-	"layout": "",
-	"permalink": "/startpage/",
-	"data": { "type": "page_data", "in_menus": [] }
+  "title": "Personal start page",
+  "description": "A start page for my personal use. I don't expect anyone else to use it.",
+  "layout": "",
+  "permalink": "/startpage/",
+  "data": { "type": "page_data", "in_menus": [] }
 }

@@ -1,35 +1,35 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/markdown
 {
-	"name": "Markdown Editing",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-	// Configure tool-specific properties.
-	"customizations": {
-		// Configure properties specific to VS Code.
-		"vscode": {
-			// Add the IDs of extensions you want installed when the container is created.
-			"extensions": [
-				"yzhang.markdown-all-in-one",
-				"streetsidesoftware.code-spell-checker",
-				"DavidAnson.vscode-markdownlint",
-				"shd101wyy.markdown-preview-enhanced",
-				"bierner.github-markdown-preview",
-				"ryanabx.djot-vscode",
-				"wisim3000.djot-marker",
-				"tombi-toml.tombi",
-				"hverlin.mise-vscode"
-			]
-		}
-	},
-	// "features": {},
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "sudo apt update -y && sudo apt install -y curl;sudo install -dm 755 /etc/apt/keyrings;curl -fSs https://mise.jdx.dev/gpg-key.pub | sudo tee /etc/apt/keyrings/mise-archive-keyring.pub 1> /dev/null;echo \"deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.pub arch=amd64] https://mise.jdx.dev/deb stable main\" | sudo tee /etc/apt/sources.list.d/mise.list;sudo apt update;sudo apt install -y mise;mise trust; echo 'eval \"$(~/.local/bin/mise activate bash)\"' >> ~/.bashrc; mise use -g usage watchexec",
-	"postAttachCommand": "mise watch preview",
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
+  "name": "Markdown Editing",
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  // "features": {},
+  // Configure tool-specific properties.
+  "customizations": {
+    // Configure properties specific to VS Code.
+    "vscode": {
+      // Add the IDs of extensions you want installed when the container is created.
+      "extensions": [
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker",
+        "DavidAnson.vscode-markdownlint",
+        "shd101wyy.markdown-preview-enhanced",
+        "bierner.github-markdown-preview",
+        "ryanabx.djot-vscode",
+        "wisim3000.djot-marker",
+        "tombi-toml.tombi",
+        "hverlin.mise-vscode"
+      ]
+    }
+  },
+  // "features": {},
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  // "forwardPorts": [],
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "sudo apt update -y && sudo apt install -y curl;sudo install -dm 755 /etc/apt/keyrings;curl -fSs https://mise.jdx.dev/gpg-key.pub | sudo tee /etc/apt/keyrings/mise-archive-keyring.pub 1> /dev/null;echo \"deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.pub arch=amd64] https://mise.jdx.dev/deb stable main\" | sudo tee /etc/apt/sources.list.d/mise.list;sudo apt update;sudo apt install -y mise;mise trust; echo 'eval \"$(~/.local/bin/mise activate bash)\"' >> ~/.bashrc; mise use -g usage watchexec",
+  "postAttachCommand": "mise watch preview"
+  // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+  // "remoteUser": "root"
 }

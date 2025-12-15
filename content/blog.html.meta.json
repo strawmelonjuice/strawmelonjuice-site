@@ -1,11 +1,11 @@
 {
-	"title": "Posts",
-	"description": "",
-	"layout": "",
-	"permalink": "/blog/",
-	"data": {
-		"type": "page_data",
-		"in_menus": [1],
-		"hide_meta": false
-	}
+  "title": "Posts",
+  "description": "",
+  "layout": "",
+  "permalink": "/blog/",
+  "data": {
+    "type": "page_data",
+    "in_menus": [1],
+    "hide_meta": false
+  }
 }

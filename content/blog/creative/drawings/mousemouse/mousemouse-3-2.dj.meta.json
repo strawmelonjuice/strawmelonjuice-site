@@ -1,25 +1,25 @@
 {
-	"title": "MouseMouse 3.2",
-	"description": "Showing off the latest version of MouseMouse with much more detail than previous versions!",
-	"layout": "theme",
-	"permalink": "/mousemouse-3-2",
-	"data": {
-		"type": "post_data",
-		"date_published": "2023-06-15",
-		"date_updated": "2023-06-15",
-		"category": "Art",
-		"tags": [
-			"MouseMouse",
-			"Art",
-			"Digital Art",
-			"Character Design",
-			"Original Character",
-			"OC",
-			"Artwork",
-			"Creative",
-			"Personal Project",
-			"OCid:MM",
-			"blog/Creative"
-		]
-	}
+  "title": "MouseMouse 3.2",
+  "description": "Showing off the latest version of MouseMouse with much more detail than previous versions!",
+  "layout": "theme",
+  "permalink": "/mousemouse-3-2",
+  "data": {
+    "type": "post_data",
+    "date_published": "2023-06-15",
+    "date_updated": "2023-06-15",
+    "category": "Art",
+    "tags": [
+      "MouseMouse",
+      "Art",
+      "Digital Art",
+      "Character Design",
+      "Original Character",
+      "OC",
+      "Artwork",
+      "Creative",
+      "Personal Project",
+      "OCid:MM",
+      "blog/Creative"
+    ]
+  }
 }

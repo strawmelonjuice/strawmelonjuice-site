@@ -1,8 +1,8 @@
 {
-	"path": "https://codeberg.org/strawmelonjuice/Lumina/wiki/raw/Home.md",
-	"title": "About project: Lumina",
-	"description": "Deeper dive into the Lumina project.",
-	"layout": "theme",
-	"permalink": "/project/Lumina-about",
-	"data": { "type": "page_data", "in_menus": [], "hide_meta": true }
+  "path": "https://codeberg.org/strawmelonjuice/Lumina/wiki/raw/Home.md",
+  "title": "About project: Lumina",
+  "description": "Deeper dive into the Lumina project.",
+  "layout": "theme",
+  "permalink": "/project/Lumina-about",
+  "data": { "type": "page_data", "in_menus": [], "hide_meta": true }
 }

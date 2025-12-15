@@ -1,7 +1,7 @@
 {
-	"title": "Creative",
-	"description": "All my creative works!",
-	"layout": "default",
-	"permalink": "!/tag/blog/Creative",
-	"data": { "type": "page_data", "in_menus": [] }
+  "title": "Creative",
+  "description": "All my creative works!",
+  "layout": "default",
+  "permalink": "!/tag/blog/Creative",
+  "data": { "type": "page_data", "in_menus": [] }
 }

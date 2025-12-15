@@ -1,25 +1,25 @@
 {
-    "title": "[migrated] Farewell Google Ads",
-    "description": "The frustrating story of Google Adsense rejecting my subdomain and calling my own content theft.",
-    "layout": "theme",
-    "permalink": "/farewell-gads",
-    "data": {
-        "type": "post_data",
-        "date_published": "2022-08-20",
-        "date_updated": "2022-08-20",
-        "category": "Technology",
-        "tags": [
-            "Google Adsense",
-            "Ads",
-            "Domain Issues",
-            "Subdomain",
-            "Monetization",
-            "Website Migration",
-            "Google",
-            "Revenue",
-            "BuyMeACoffee",
-            "Support",
-            "Frustration"
-        ]
-    }
+  "title": "[migrated] Farewell Google Ads",
+  "description": "The frustrating story of Google Adsense rejecting my subdomain and calling my own content theft.",
+  "layout": "theme",
+  "permalink": "/farewell-gads",
+  "data": {
+    "type": "post_data",
+    "date_published": "2022-08-20",
+    "date_updated": "2022-08-20",
+    "category": "Technology",
+    "tags": [
+      "Google Adsense",
+      "Ads",
+      "Domain Issues",
+      "Subdomain",
+      "Monetization",
+      "Website Migration",
+      "Google",
+      "Revenue",
+      "BuyMeACoffee",
+      "Support",
+      "Frustration"
+    ]
+  }
 }
